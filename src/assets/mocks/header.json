@@ -1,0 +1,66 @@
+{
+  "companyName": "Company Name",
+  "logoLink": "",
+  "prodName": "Property Name",
+  "propertyName": "Meadow Bay",
+  "searchEnabled": true,
+  "showNavToggle": true,
+  "toolbarIcons": [
+    {
+      "active": true,
+      "text": "Home",
+      "className": "home"
+    },
+
+    {
+      "active": true,
+      "appSwitcher": true
+    },
+
+    {
+      "active": true,
+      "text": "Help",
+      "className": "help",
+      "event": "help"
+    },
+
+    {
+      "active": true,
+      "text": "Settings",
+      "className": "settings"
+    },
+
+    {
+      "active": true,
+      "text": "Shopping",
+      "className": "shopping-cart"
+    },
+
+    {
+      "count": 5,
+      "active": true,
+      "className": "notifications"
+    }
+  ],
+  "userInitials": "JD",
+  "userLinks": [
+    {
+      "type": "link",
+      "newWindow": true,
+      "text": "User Link 1",
+      "url": "/product/clientportal"
+    },
+    {
+      "type": "event",
+      "text": "User Link 2",
+      "event": "manageProfile"
+    },
+    {
+      "type": "event",
+      "text": "Sign out",
+      "event": "signout"
+    }
+  ],
+  "userRole": "Leasing Agent",
+  "username": "John Doe"
+}

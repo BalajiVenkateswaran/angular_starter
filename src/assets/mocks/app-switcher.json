@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "name": "Asset Optimization",
+      "url": "https://mydev.corp.realpage.com//product/assetoptimizer?personaid=33",
+      "label": "asset-optimizer",
+      "familyId": 400,
+      "familyName": "Asset Optimization",
+      "isNewTab": true,
+      "isFavorite": false,
+      "isResource": false
+    },
+    {
+      "id": 7,
+      "name": "YieldStar",
+      "url": "https://mydev.corp.realpage.com//product/yieldstar?personaid=33",
+      "label": "yieldstar",
+      "familyId": 400,
+      "familyName": "Asset Optimization",
+      "isNewTab": true,
+      "isFavorite": false,
+      "isResource": false
+    },
+    {
+      "id": 6,
+      "name": "Lead2Lease",
+      "url": "https://mydev.corp.realpage.com//product/lead2lease?personaid=33",
+      "label": "lead2lease",
+      "familyId": 300,
+      "familyName": "Lease Management",
+      "isNewTab": false,
+      "isFavorite": false,
+      "isResource": false
+    },
+    {
+      "id": 23,
+      "name": "On-Site",
+      "url": "https://mydev.corp.realpage.com//product/onsite?personaid=33",
+      "label": "on-site",
+      "familyId": 300,
+      "familyName": "Lease Management",
+      "isNewTab": true,
+      "isFavorite": false,
+      "isResource": false
+    },
+    {
+      "id": 10,
+      "name": "Prospect Contact Center",
+      "url": "https://mydev.corp.realpage.com//product/prospectcontactcenter?personaid=33",
+      "label": "prospect-contact-center",
+      "familyId": 300,
+      "familyName": "Lease Management",
+      "isNewTab": true,
+      "isFavorite": false,
+      "isResource": false
+    },
+    {
+      "id": 9,
+      "name": "Websites & Syndication",
+      "url": "https://mydev.corp.realpage.com//product/marketingcenter?personaid=33",
+      "label": "websites-syndication",
+      "familyId": 300,
+      "familyName": "Lease Management",
+      "isNewTab": true,
+      "isFavorite": true,
+      "isResource": false
+    },
+    {
+      "id": 1,
+      "name": "OneSite",
+      "url": "https://mydev.corp.realpage.com//product/onesite?personaid=33",
+      "label": "onesite",
+      "familyId": 100,
+      "familyName": "Property Management",
+      "isNewTab": true,
+      "isFavorite": true,
+      "isResource": false
+    },
+    {
+      "id": 8,
+      "name": "RealPage Accounting",
+      "url": "https://mydev.corp.realpage.com//product/accounting?personaid=33",
+      "label": "realpage-accounting",
+      "familyId": 100,
+      "familyName": "Property Management",
+      "isNewTab": true,
+      "isFavorite": true,
+      "isResource": false
+    },
+    {
+      "id": 13,
+      "name": "Spend Management",
+      "url": "https://mydev.corp.realpage.com//product/opsbuyer?personaid=33",
+      "label": "spend-management",
+      "familyId": 100,
+      "familyName": "Property Management",
+      "isNewTab": true,
+      "isFavorite": false,
+      "isResource": false
+    },
+    {
+      "id": 16,
+      "name": "Vendor Services",
+      "url": "https://mydev.corp.realpage.com//product/vendorservices?personaid=33",
+      "label": "vendor-services",
+      "familyId": 100,
+      "familyName": "Property Management",
+      "isNewTab": true,
+      "isFavorite": false,
+      "isResource": false
+    },
+    {
+      "id": 17,
+      "name": "Resident Portal",
+      "url": "https://mydev.corp.realpage.com//product/residentportal?personaid=33",
+      "label": "resident-portal",
+      "familyId": 200,
+      "familyName": "Resident Services",
+      "isNewTab": true,
+      "isFavorite": false,
+      "isResource": false
+    },
+    {
+      "id": 18,
+      "name": "Utility Management",
+      "url": "https://mydev.corp.realpage.com//product/utilitymanagement?personaid=33",
+      "label": "utility-management",
+      "familyId": 200,
+      "familyName": "Resident Services",
+      "isNewTab": true,
+      "isFavorite": false,
+      "isResource": false
+    }
+  ]
+}

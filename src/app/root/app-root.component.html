@@ -1,0 +1,13 @@
+<div id="rp-app-root" class="rp-app-root" [ngClass]="getState()">
+  <rp-header
+    [data]="headerData"
+    [appSwitcherData]="appSwitcherData">
+  </rp-header>
+  <rp-nav [data]="navData"></rp-nav>
+  <div class="rp-app-header">
+    <rp-breadcrumbs></rp-breadcrumbs>
+  </div>
+  <div class="rp-app-content">
+    <router-outlet></router-outlet>
+  </div>
+</div>
